@@ -1,5 +1,11 @@
 # AI Portrait Generator with ComfyUI
 
+TLDR: 
+1.Loads photo descriptions
+2.Uses Ollama to enhance the descriptions
+3.Sends them to ComfyUI
+4.Saves the generated images
+
 ![Sample Portrait 1](sample_images/ComfyUI_00435_.png)
 *A stunning portrait showcasing intricate tattoo details and mesmerizing blue eyes*
 
